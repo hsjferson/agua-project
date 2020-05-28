@@ -32,7 +32,7 @@ export default class primeroExpo extends Component {
     this.atualizar();
 
   }
-
+  
   render() {
    
     return (

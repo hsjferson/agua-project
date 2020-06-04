@@ -64,8 +64,7 @@ export default class primeroExpo extends Component {
                 </View> 
 
                 <View style = {styles.btnArea}> 
-                     <Button title="Berber 200ml" onPress={this.addCopo}></Button>
-                      
+                     <Button title="Beber 200ml" onPress={this.addCopo}></Button>    
                 </View> 
                 
               

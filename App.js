@@ -60,11 +60,11 @@ export default class primeroExpo extends Component {
               
                 </View>
                 <View style = {styles.pctArea}>
-                     <Text style = {styles.pctText}>{this.state.consumido}%</Text>
+                     <Text style = {styles.pctText}>{this.state.consumido}% </Text>
                 </View> 
 
                 <View style = {styles.btnArea}> 
-                     <Button title="Beber 200ml" onPress={this.addCopo}></Button>    
+                     <Button title="Beber 200ml" onPress={this.addCopo}> </Button>    
                 </View> 
                 
               
